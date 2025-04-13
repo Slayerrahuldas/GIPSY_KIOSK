@@ -1,10 +1,64 @@
 [
   {
+    "HUL Code": "HUL-217115D-P18550",
+    "HUL Outlet Name": "GHOSH COUSIN VTY.S - BS2-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P34828",
+    "HUL Outlet Name": "GLAMOUR-D-P",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 227,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P35087",
+    "HUL Outlet Name": "DIVA COSMATIC-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 8360,
+    "Shikhar": 8360
+  },
+  {
     "HUL Code": "HUL-219176D-P36092",
     "HUL Outlet Name": "NEW COLLECTION WORLD-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "D-AMARPALLY+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P36217",
+    "HUL Outlet Name": "SAMPURNA-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 4060,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P40788",
+    "HUL Outlet Name": "MEENA COSMETICS-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 1580,
+    "Shikhar": 1294
+  },
+  {
+    "HUL Code": "HUL-219176D-P41149",
+    "HUL Outlet Name": "Jupiter Sto-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -36,6 +90,33 @@
     "Shikhar": 727
   },
   {
+    "HUL Code": "HUL-219176D-P43608",
+    "HUL Outlet Name": "Ramjanam Stores-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 231,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44287",
+    "HUL Outlet Name": "Sumi Stationery-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 765,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P45988",
+    "HUL Outlet Name": "Ajoy Sto-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P12131",
     "HUL Outlet Name": "MAHADEV BHANDER - NBZR-D-D-D",
     "Shikhar Outlet": "YES",
@@ -43,6 +124,24 @@
     "DETS Beat": "D-AMARPALLY+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-216252F-P1994",
+    "HUL Outlet Name": "BiswanathBhander-F-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 1146,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P18437",
+    "HUL Outlet Name": "MANGAL DEEP - VK RD-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 1673,
+    "Shikhar": 962
   },
   {
     "HUL Code": "HUL-217115D-P17480",
@@ -63,12 +162,93 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317D-P43727",
+    "HUL Outlet Name": "Aaradhya International-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 234,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P44192",
+    "HUL Outlet Name": "POSHAKI-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 11087,
+    "Shikhar": 746
+  },
+  {
     "HUL Code": "HUL-217093P-652",
     "HUL Outlet Name": "INDO-P-D-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "D-AMARPALLY+NUTS",
     "ECO": 2238,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-1108",
+    "HUL Outlet Name": "SAIF PERFUME & COSMETICS-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 214,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-1216",
+    "HUL Outlet Name": "BSF M/S NEW FRIENDS VARIETY-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 2647,
+    "Shikhar": 526
+  },
+  {
+    "HUL Code": "HUL-217086D-1673",
+    "HUL Outlet Name": "BSG GOURI BHANDER-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 4039,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-1849",
+    "HUL Outlet Name": "VARIETY BAZAAR-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2071",
+    "HUL Outlet Name": "BSN M/S NEW NATIONAL (V) STORES-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2646",
+    "HUL Outlet Name": "SAMRAT-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2755",
+    "HUL Outlet Name": "BSC CALCUTTA STORES-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 297,
     "Shikhar": 0
   },
   {
@@ -81,12 +261,48 @@
     "Shikhar": 2501
   },
   {
+    "HUL Code": "HUL-217086D-36",
+    "HUL Outlet Name": "BSA M/S ANNAPURNA VARIETIES(A)-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 6320,
+    "Shikhar": 4106
+  },
+  {
     "HUL Code": "HUL-217416P501",
     "HUL Outlet Name": "Appolo-D_U2NC-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "D-AMARPALLY+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44532",
+    "HUL Outlet Name": "Satyanarayan Bhandar",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44534",
+    "HUL Outlet Name": "Wrivu S",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44547",
+    "HUL Outlet Name": "Manorama Store",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 845,
     "Shikhar": 0
   },
   {
@@ -126,6 +342,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P39834",
+    "HUL Outlet Name": "PUSPA STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P11585",
     "HUL Outlet Name": "ANNAPURNA BHANDER - SK2-D-D-D",
     "Shikhar Outlet": "YES",
@@ -135,6 +360,15 @@
     "Shikhar": 1402
   },
   {
+    "HUL Code": "HUL-217093D-P0282",
+    "HUL Outlet Name": "SABITA STORES - JR-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 5152,
+    "Shikhar": 5152
+  },
+  {
     "HUL Code": "HUL-219176D-P26831",
     "HUL Outlet Name": "OM TRADERS-D-F",
     "Shikhar Outlet": "YES",
@@ -142,6 +376,33 @@
     "DETS Beat": "D-SATGACHI-2",
     "ECO": 1467,
     "Shikhar": 1467
+  },
+  {
+    "HUL Code": "HUL-219176D-P27106",
+    "HUL Outlet Name": "ASUTOSH STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 6088,
+    "Shikhar": 6088
+  },
+  {
+    "HUL Code": "HUL-219176D-P27111",
+    "HUL Outlet Name": "BASANTI STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 7378,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P27126",
+    "HUL Outlet Name": "KANAI STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 2751,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-219176D-P27371",
@@ -162,12 +423,75 @@
     "Shikhar": 5819
   },
   {
+    "HUL Code": "HUL-20B317D-P44379",
+    "HUL Outlet Name": "M GHOSH AND SONS-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 1332,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P44386",
+    "HUL Outlet Name": "SIKHA STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 2425,
+    "Shikhar": 1652
+  },
+  {
+    "HUL Code": "HUL-217093D-P1555",
+    "HUL Outlet Name": "RADHA KRISHNA BHANDAR-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 2529,
+    "Shikhar": 1278
+  },
+  {
+    "HUL Code": "HUL-217086D-2904",
+    "HUL Outlet Name": "CHG M/S GOBINDA BHANDER-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317P44525",
     "HUL Outlet Name": "FOOD GALLERY",
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-COLLEGE STREET+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44537",
+    "HUL Outlet Name": "MAHAlAXMI  VARIETY STORES",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 208,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44539",
+    "HUL Outlet Name": "NEW GANDESWARI BHANDER",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 1613,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44550",
+    "HUL Outlet Name": "RAJESH FOOD GRAINS",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 2251,
     "Shikhar": 0
   },
   {
@@ -306,6 +630,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P32981",
+    "HUL Outlet Name": "NAIRANJAN SHAW-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 3453,
+    "Shikhar": 3453
+  },
+  {
+    "HUL Code": "HUL-219176D-P32986",
+    "HUL Outlet Name": "MUNILLAL SHAW & SONS-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P22294",
     "HUL Outlet Name": "SURESH STORES-D-D-D",
     "Shikhar Outlet": "NO",
@@ -405,6 +747,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P33314",
+    "HUL Outlet Name": "LALBABU SHAW-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P22384",
     "HUL Outlet Name": "JHANTU STORES-D-D",
     "Shikhar Outlet": "YES",
@@ -420,6 +771,15 @@
     "DETS ME Name": "Joly Mahato",
     "DETS Beat": "K-HATIBAGAN-1+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P33829",
+    "HUL Outlet Name": "BASAK SALES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 223,
     "Shikhar": 0
   },
   {
@@ -450,6 +810,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P33929",
+    "HUL Outlet Name": "JAISWAL THIRST CENTRE-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 1205,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P33957",
     "HUL Outlet Name": "ARUN TARA STORES-D",
     "Shikhar Outlet": "NO",
@@ -474,6 +843,15 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-GOURIBARI+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P34143",
+    "HUL Outlet Name": "BANGA BHUSAN DAS-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 6044,
     "Shikhar": 0
   },
   {
@@ -504,11 +882,29 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P34265",
+    "HUL Outlet Name": "LOKENATH STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 2107,
+    "Shikhar": 1897
+  },
+  {
     "HUL Code": "HUL-217115D-P22544",
     "HUL Outlet Name": "PARITOSH PATRA-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-MANICKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P34345",
+    "HUL Outlet Name": "RATION SHOP(FPS-239)-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -519,6 +915,15 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-MURARIPUKUR-2+NUTS",
     "ECO": 629,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P34428",
+    "HUL Outlet Name": "SHAILNDRA  STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 225,
     "Shikhar": 0
   },
   {
@@ -537,6 +942,15 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-DAKHINDHARI-2+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P34550",
+    "HUL Outlet Name": "SREE LAXMI BHANDER-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 543,
     "Shikhar": 0
   },
   {
@@ -648,6 +1062,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P35227",
+    "HUL Outlet Name": "KARTIK SAHA-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 4209,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P35272",
     "HUL Outlet Name": "M.MART-D",
     "Shikhar Outlet": "NO",
@@ -666,6 +1089,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P35377",
+    "HUL Outlet Name": "PRATAP KAR-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 1787,
+    "Shikhar": 1787
+  },
+  {
+    "HUL Code": "HUL-219176D-P35382",
+    "HUL Outlet Name": "HALDER &SONS-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 2432,
+    "Shikhar": 2191
+  },
+  {
     "HUL Code": "HUL-219176D-P35392",
     "HUL Outlet Name": "VANSIKA GROCERY STORES-D",
     "Shikhar Outlet": "NO",
@@ -681,6 +1122,24 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-GOLA GHATA+NUTS",
     "ECO": 1737,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P35442",
+    "HUL Outlet Name": "SHYAM BHANDER-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 906,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P35447",
+    "HUL Outlet Name": "BANAMALI STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 384,
     "Shikhar": 0
   },
   {
@@ -717,6 +1176,15 @@
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-COLLAGE ST-2",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P35562",
+    "HUL Outlet Name": "DUTTA STATIONERY-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 259,
     "Shikhar": 0
   },
   {
@@ -801,6 +1269,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P36527",
+    "HUL Outlet Name": "TUSAR DAS-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 396,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P36532",
+    "HUL Outlet Name": "MOUJI PRASAD SHAW-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 207,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P22724",
     "HUL Outlet Name": "ILA VTY-D-D",
     "Shikhar Outlet": "NO",
@@ -834,6 +1320,24 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-CHALK BAZAR+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P36702",
+    "HUL Outlet Name": "KULDEEP SHAW-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 434,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P37107",
+    "HUL Outlet Name": "RAJESH STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 297,
     "Shikhar": 0
   },
   {
@@ -923,6 +1427,15 @@
     "Shikhar Outlet": "YES",
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-GOLA GHATA+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P37582",
+    "HUL Outlet Name": "ABHIDHAN-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -1022,6 +1535,15 @@
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-AMHAR ST+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P38392",
+    "HUL Outlet Name": "MAKALI STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -1152,6 +1674,24 @@
     "Shikhar": 1004
   },
   {
+    "HUL Code": "HUL-219176D-P39497",
+    "HUL Outlet Name": "PINTU GUPTA-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 400,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P39502",
+    "HUL Outlet Name": "SURESH SHAW-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 844,
+    "Shikhar": 844
+  },
+  {
     "HUL Code": "HUL-219176D-P39507",
     "HUL Outlet Name": "DEY LAUNDRY-D",
     "Shikhar Outlet": "YES",
@@ -1249,6 +1789,15 @@
     "DETS Beat": "K-MURARIPUKUR-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P40073",
+    "HUL Outlet Name": "ATHARVA AGENCY-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 1164,
+    "Shikhar": 1164
   },
   {
     "HUL Code": "HUL-219176D-P40088",
@@ -1359,6 +1908,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P40703",
+    "HUL Outlet Name": "ARINDAM VARIETY STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 205,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P40803",
     "HUL Outlet Name": "NILIMA VARIETY STORES-D",
     "Shikhar Outlet": "NO",
@@ -1422,6 +1980,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P41299",
+    "HUL Outlet Name": "B K Store-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 642,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P41304",
+    "HUL Outlet Name": "Jai Hanuman Store-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 1777,
+    "Shikhar": 1205
+  },
+  {
     "HUL Code": "HUL-217115D-P23329",
     "HUL Outlet Name": "RAJU ST.-D-D",
     "Shikhar Outlet": "NO",
@@ -1429,6 +2005,15 @@
     "DETS Beat": "K-AMHAR ST+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P41584",
+    "HUL Outlet Name": "Azhari Stores-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 1293,
+    "Shikhar": 1070
   },
   {
     "HUL Code": "HUL-219176D-P41599",
@@ -1509,6 +2094,15 @@
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "K-LALGHAR+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P41934",
+    "HUL Outlet Name": "Mondal &Jana-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 210,
     "Shikhar": 0
   },
   {
@@ -1602,6 +2196,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P42980",
+    "HUL Outlet Name": "Lokenath Store-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P42995",
     "HUL Outlet Name": "Ashirbad Bhandar-D",
     "Shikhar Outlet": "NO",
@@ -1635,6 +2238,24 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-SK DEV ROAD 3+NUTS",
     "ECO": 451,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P23569",
+    "HUL Outlet Name": "GOPAL STORES-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P23574",
+    "HUL Outlet Name": "MENOKA SHAW-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 688,
     "Shikhar": 0
   },
   {
@@ -1854,6 +2475,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P44071",
+    "HUL Outlet Name": "Shyam Traders-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 206,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P44122",
     "HUL Outlet Name": "Dhiraj Kumar-D",
     "Shikhar Outlet": "NO",
@@ -1953,6 +2583,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P44282",
+    "HUL Outlet Name": "Vinod Shaw-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P44302",
     "HUL Outlet Name": "Saraswati St.-D",
     "Shikhar Outlet": "NO",
@@ -1968,6 +2607,24 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-BAGMARI-2+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44332",
+    "HUL Outlet Name": "Joy Guru Bhandar-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 1150,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44337",
+    "HUL Outlet Name": "Laxmi Narayan Stor-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 850,
     "Shikhar": 0
   },
   {
@@ -2016,6 +2673,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P44422",
+    "HUL Outlet Name": "M. D Zahir-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P44442",
     "HUL Outlet Name": "ASHA BHANDER-D",
     "Shikhar Outlet": "NO",
@@ -2039,6 +2705,24 @@
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "K-BAGUIATI+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44477",
+    "HUL Outlet Name": "Abid Pan Shop-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44482",
+    "HUL Outlet Name": "Sree Balaji Stores-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -2142,6 +2826,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P44602",
+    "HUL Outlet Name": "Matara  Stores-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 4911,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44612",
+    "HUL Outlet Name": "Makeup World-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 302,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P44622",
     "HUL Outlet Name": "Friends-D",
     "Shikhar Outlet": "NO",
@@ -2169,6 +2871,42 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P44647",
+    "HUL Outlet Name": "Surendar Shaw-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44662",
+    "HUL Outlet Name": "Brojananda Stores-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 597,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44667",
+    "HUL Outlet Name": "New Jharkhand Stores-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44672",
+    "HUL Outlet Name": "Sairam Stores-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 3393,
+    "Shikhar": 3393
+  },
+  {
     "HUL Code": "HUL-219176D-P44682",
     "HUL Outlet Name": "Makali Stores-D",
     "Shikhar Outlet": "NO",
@@ -2194,6 +2932,15 @@
     "DETS Beat": "K-HATIBAGAN-2+NUTS",
     "ECO": 351,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44702",
+    "HUL Outlet Name": "Prova-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 1023,
+    "Shikhar": 1023
   },
   {
     "HUL Code": "HUL-219176D-P44707",
@@ -2340,6 +3087,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P44832",
+    "HUL Outlet Name": "Laxmi Narayan Bhandar-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 865,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P44837",
     "HUL Outlet Name": "Jasho Madhab Bhandar-D",
     "Shikhar Outlet": "YES",
@@ -2373,6 +3129,24 @@
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "D-SATGACHI-2",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44902",
+    "HUL Outlet Name": "Guddu Stores-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 868,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P44907",
+    "HUL Outlet Name": "Raj Ballvi Bhander-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 1689,
     "Shikhar": 0
   },
   {
@@ -2481,6 +3255,33 @@
     "DETS ME Name": "Joly Mahato",
     "DETS Beat": "K-SHYAMBAZAR+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P45047",
+    "HUL Outlet Name": "MITHUN PAN-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 1259,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P45052",
+    "HUL Outlet Name": "Tarak Nath  Bhander-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 235,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P45062",
+    "HUL Outlet Name": "MINA STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 270,
     "Shikhar": 0
   },
   {
@@ -2619,6 +3420,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P45258",
+    "HUL Outlet Name": "Afzal Stores-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 240,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P45263",
     "HUL Outlet Name": "Prokash Store-D",
     "Shikhar Outlet": "NO",
@@ -2709,6 +3519,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P45486",
+    "HUL Outlet Name": "J S M Store-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 1235,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P45511",
     "HUL Outlet Name": "Chourosia Pan-D",
     "Shikhar Outlet": "NO",
@@ -2733,6 +3552,33 @@
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-BAGUIHATI KHAL PAR+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P45561",
+    "HUL Outlet Name": "Das Bhandar-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 2188,
+    "Shikhar": 1908
+  },
+  {
+    "HUL Code": "HUL-217115D-P24070",
+    "HUL Outlet Name": "ABINASH STORES-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 2356,
+    "Shikhar": 1968
+  },
+  {
+    "HUL Code": "HUL-219176D-P45667",
+    "HUL Outlet Name": "SATYANARAYAN BHANDER-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 248,
     "Shikhar": 0
   },
   {
@@ -2772,12 +3618,30 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P45927",
+    "HUL Outlet Name": "SHAW COMMUNICATION-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 207,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P22709",
     "HUL Outlet Name": "SWASTIKA-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Joly Mahato",
     "DETS Beat": "K-HATIBAGAN-2+NUTS",
     "ECO": 2176,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P45993",
+    "HUL Outlet Name": "New Shaw Sto-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 1309,
     "Shikhar": 0
   },
   {
@@ -2904,6 +3768,15 @@
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-COLLEGE STREET+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P24170",
+    "HUL Outlet Name": "JAI MATA DI-D-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 766,
     "Shikhar": 0
   },
   {
@@ -3222,6 +4095,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P46975",
+    "HUL Outlet Name": "Mahesh Bhandar-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 618,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P46980",
     "HUL Outlet Name": "Maa Tara Bhander-D",
     "Shikhar Outlet": "YES",
@@ -3303,6 +4185,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P47075",
+    "HUL Outlet Name": "Zeesan Stores-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 2665,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P24305",
     "HUL Outlet Name": "SAMANTA BHANDER-D-D",
     "Shikhar Outlet": "NO",
@@ -3348,12 +4239,39 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P47170",
+    "HUL Outlet Name": "Samir Samanta-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 804,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47175",
+    "HUL Outlet Name": "Dinesh Kejriwal-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P47180",
     "HUL Outlet Name": "Jai Ambe Grocery Store-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-MANICKTALA-2+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47185",
+    "HUL Outlet Name": "Shreyansh-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 626,
     "Shikhar": 0
   },
   {
@@ -3483,6 +4401,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P47360",
+    "HUL Outlet Name": "Sasta Bajar-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 292,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P47370",
     "HUL Outlet Name": "Poushali Variety Stores-D",
     "Shikhar Outlet": "NO",
@@ -3573,12 +4500,48 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P47476",
+    "HUL Outlet Name": "Biswajit Paul-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 1378,
+    "Shikhar": 1378
+  },
+  {
+    "HUL Code": "HUL-219176D-P47481",
+    "HUL Outlet Name": "Subrata Pal-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 220,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P47516",
     "HUL Outlet Name": "KP BHATTACHARYA-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-MANICKTALA-2+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47521",
+    "HUL Outlet Name": "MAITI STORES MANICK-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 2020,
+    "Shikhar": 2020
+  },
+  {
+    "HUL Code": "HUL-219176D-P47546",
+    "HUL Outlet Name": "Guha & Sons-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 538,
     "Shikhar": 0
   },
   {
@@ -3627,6 +4590,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P47678",
+    "HUL Outlet Name": "ROY VARIETY STORE-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47685",
+    "HUL Outlet Name": "Deshbandhu Store-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 201,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P47692",
     "HUL Outlet Name": "SARA VARIETY-D",
     "Shikhar Outlet": "NO",
@@ -3636,12 +4617,39 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P47724",
+    "HUL Outlet Name": "Joy Guru Bhandar-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47752",
+    "HUL Outlet Name": "Kalikrishno Store-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 1301,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P47766",
     "HUL Outlet Name": "Abhishek Saha-D",
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-DAKSHINDHARI RAIL GATE+NUTS",
     "ECO": 619,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47773",
+    "HUL Outlet Name": "Sovan Samanta-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 209,
     "Shikhar": 0
   },
   {
@@ -3699,6 +4707,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217115D-P24650",
+    "HUL Outlet Name": "MA DURGA BH-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 388,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-6568",
     "HUL Outlet Name": "DDS SANTOSH SHAW -2-D-D-D",
     "Shikhar Outlet": "NO",
@@ -3753,12 +4770,48 @@
     "Shikhar": 2080
   },
   {
+    "HUL Code": "HUL-217115D-7265",
+    "HUL Outlet Name": "A.K. SARKAR-D-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 1158,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-7268",
+    "HUL Outlet Name": "ANNAPURNA BHANDER-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 1490,
+    "Shikhar": 1240
+  },
+  {
     "HUL Code": "HUL-217115D-7271",
     "HUL Outlet Name": "C H GOPE-D-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-COLLEGE STREET+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-7304",
+    "HUL Outlet Name": "S K GUPTA-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 692,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-7316",
+    "HUL Outlet Name": "SREE KRISHNA BHANDER-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 985,
     "Shikhar": 0
   },
   {
@@ -3780,11 +4833,29 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217115D-7422",
+    "HUL Outlet Name": "MTJ M/S JAISWAL STORES-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-7558",
     "HUL Outlet Name": "SKS M/S SWASTIK-D-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-SK DEV ROAD 3+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-7599",
+    "HUL Outlet Name": "DDB M/S BISWAJIT DEY-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -3841,6 +4912,33 @@
     "DETS Beat": "K-SK DEV ROAD 4+NUTS",
     "ECO": 590,
     "Shikhar": 590
+  },
+  {
+    "HUL Code": "HUL-217115D-P11957",
+    "HUL Outlet Name": "GUPTA STORES - MANIKTALA-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 511,
+    "Shikhar": 511
+  },
+  {
+    "HUL Code": "HUL-217115D-P11966",
+    "HUL Outlet Name": "JOY MATADI BHANDER - MANIKTALA-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 1345,
+    "Shikhar": 564
+  },
+  {
+    "HUL Code": "HUL-217115D-P11972",
+    "HUL Outlet Name": "LAXMI STORES - VK RD-D-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 1237,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217115D-P12086",
@@ -4068,6 +5166,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217115D-P13276",
+    "HUL Outlet Name": "Gupta Stores-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P13381",
+    "HUL Outlet Name": "PUJA STORES - CHKBZR-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P13390",
     "HUL Outlet Name": "SHAW STORES - KALINDI-D-D-D",
     "Shikhar Outlet": "NO",
@@ -4093,6 +5209,15 @@
     "DETS Beat": "K-BELGACHIA-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P25140",
+    "HUL Outlet Name": "MAA MONASHA BH-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 1148,
+    "Shikhar": 1148
   },
   {
     "HUL Code": "HUL-217115D-P13492",
@@ -4293,6 +5418,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217115D-P17471",
+    "HUL Outlet Name": "VARIETY STORES - MANIKTALA-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 1893,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-216252F-C964",
     "HUL Outlet Name": "CHANDIMATA STORES(SHYAMBAZAR)-F-D-D-D",
     "Shikhar Outlet": "YES",
@@ -4344,6 +5478,15 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-DAKSHINDHARI RAIL GATE+NUTS",
     "ECO": 383,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P25161",
+    "HUL Outlet Name": "URMILA STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -4644,6 +5787,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P26262",
+    "HUL Outlet Name": "B.S STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 1840,
+    "Shikhar": 1614
+  },
+  {
+    "HUL Code": "HUL-219176D-P26267",
+    "HUL Outlet Name": "SANJIT STORES-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 811,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P26332",
     "HUL Outlet Name": "JOY JAGGANATH STORES-D",
     "Shikhar Outlet": "NO",
@@ -4725,6 +5886,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P26611",
+    "HUL Outlet Name": "OM ENTERPRISE-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 257,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P26646",
     "HUL Outlet Name": "KRISHNA STORES-D",
     "Shikhar Outlet": "NO",
@@ -4740,6 +5910,24 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-SK DEV ROAD 3+NUTS",
     "ECO": 728,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P26701",
+    "HUL Outlet Name": "PRAKASH SHAW-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 210,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P26711",
+    "HUL Outlet Name": "RATION SHOP-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 458,
     "Shikhar": 0
   },
   {
@@ -4761,6 +5949,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P26976",
+    "HUL Outlet Name": "DIPAK VARIETY STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 2148,
+    "Shikhar": 1425
+  },
+  {
     "HUL Code": "HUL-219176D-P26986",
     "HUL Outlet Name": "GHOSH BROTHERS-D",
     "Shikhar Outlet": "NO",
@@ -4776,6 +5973,33 @@
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "D-AMARPALLY+NUTS",
     "ECO": 1205,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P27136",
+    "HUL Outlet Name": "NANDINI STORES-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 261,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P27156",
+    "HUL Outlet Name": "SANTOSH STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 802,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P27191",
+    "HUL Outlet Name": "TANISH STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -4878,6 +6102,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P27441",
+    "HUL Outlet Name": "LAXMI BHANDAR-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 2625,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P27456",
     "HUL Outlet Name": "MAA TARA BHANDAR-D",
     "Shikhar Outlet": "YES",
@@ -4911,6 +6144,24 @@
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-MANICKTALA-2+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P27831",
+    "HUL Outlet Name": "B.K.GHOSH-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 233,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P27847",
+    "HUL Outlet Name": "M.PAL-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 2749,
     "Shikhar": 0
   },
   {
@@ -5085,6 +6336,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P28977",
+    "HUL Outlet Name": "SANJOY STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
+    "ECO": 1041,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P29047",
+    "HUL Outlet Name": "SUBHAS SHAW-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 2393,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P29067",
     "HUL Outlet Name": "TANIYA STORES-D",
     "Shikhar Outlet": "YES",
@@ -5100,6 +6369,15 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-BAGMARI-2+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P29150",
+    "HUL Outlet Name": "SABNAM STORES-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 246,
     "Shikhar": 0
   },
   {
@@ -5193,6 +6471,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P29717",
+    "HUL Outlet Name": "INDRADEB SHAW-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 257,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217115D-P26250",
     "HUL Outlet Name": "SHIKDAR ST-D-D-D",
     "Shikhar Outlet": "NO",
@@ -5208,6 +6495,15 @@
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-AMHAR ST+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P29837",
+    "HUL Outlet Name": "SREE GANESH BHANDAR-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 433,
     "Shikhar": 0
   },
   {
@@ -5229,6 +6525,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P30006",
+    "HUL Outlet Name": "MATHURA SHAW-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 352,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P30076",
     "HUL Outlet Name": "MAA LAXMI PAN SHOP-D",
     "Shikhar Outlet": "NO",
@@ -5244,6 +6549,15 @@
     "DETS ME Name": "Joly Mahato",
     "DETS Beat": "K-HATIBAGAN-1+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P19571",
+    "HUL Outlet Name": "S. Sarkar-D-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 595,
     "Shikhar": 0
   },
   {
@@ -5490,6 +6804,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P31066",
+    "HUL Outlet Name": "DURGA ST-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 1186,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P31071",
     "HUL Outlet Name": "G.C.RANA-D",
     "Shikhar Outlet": "YES",
@@ -5514,6 +6837,15 @@
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "K-LALGHAR",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P31186",
+    "HUL Outlet Name": "MULINA BHANDER-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 478,
     "Shikhar": 0
   },
   {
@@ -5550,6 +6882,15 @@
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "K-LALGHAR+NUTS",
     "ECO": 1103,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P31321",
+    "HUL Outlet Name": "SHIV PRASAD GUPTA-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 389,
     "Shikhar": 0
   },
   {
@@ -5634,6 +6975,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-219176D-P31836",
+    "HUL Outlet Name": "SURESH SHAW-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 216,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-219176D-P31956",
     "HUL Outlet Name": "LOKENATH BHANDAR-D",
     "Shikhar Outlet": "NO",
@@ -5676,6 +7026,15 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-GOURIBARI+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P32312",
+    "HUL Outlet Name": "JAY GURU STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 1163,
     "Shikhar": 0
   },
   {
@@ -5778,6 +7137,15 @@
     "Shikhar": 999
   },
   {
+    "HUL Code": "HUL-20B317D-P42526",
+    "HUL Outlet Name": "Sulov Price Medicine Shop-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317D-P42633",
     "HUL Outlet Name": "TUMPA TEA STORES-D",
     "Shikhar Outlet": "YES",
@@ -5801,6 +7169,24 @@
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-COLLAGE ST-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P42784",
+    "HUL Outlet Name": "Samrat Tea-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 1036,
+    "Shikhar": 1036
+  },
+  {
+    "HUL Code": "HUL-217115D-P20026",
+    "HUL Outlet Name": "ANAND BHANDER-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -5829,6 +7215,33 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-DAKSHINDHARI RAIL GATE+NUTS",
     "ECO": 562,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43187",
+    "HUL Outlet Name": "Rita Store-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 352,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43194",
+    "HUL Outlet Name": "Jaiswal Store-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43216",
+    "HUL Outlet Name": "Anjana Interprise-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2",
+    "ECO": 639,
     "Shikhar": 0
   },
   {
@@ -5877,6 +7290,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317D-P43361",
+    "HUL Outlet Name": "Paul Tee Stall-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 212,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317D-P43375",
     "HUL Outlet Name": "Biki Kini-D",
     "Shikhar Outlet": "NO",
@@ -5922,11 +7344,29 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317D-P43478",
+    "HUL Outlet Name": "Bankim Nayak-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217093D-P0739",
     "HUL Outlet Name": "RADHA RAMAN BH-D-D-D-D",
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Indrajit Sarkar",
     "DETS Beat": "K-LALGHAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43495",
+    "HUL Outlet Name": "Monorama Variety Store-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -5994,6 +7434,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317D-P43643",
+    "HUL Outlet Name": "Chowdhury Store-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317D-P43669",
     "HUL Outlet Name": "Sree Durga Dasakarma-D",
     "Shikhar Outlet": "YES",
@@ -6017,6 +7466,15 @@
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-SHYAM PUKUR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43720",
+    "HUL Outlet Name": "Family Mart-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -6099,6 +7557,15 @@
     "DETS ME Name": "Suvo Pakhira",
     "DETS Beat": "K-DAKHINDHARI-2+NUTS",
     "ECO": 2786,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P43965",
+    "HUL Outlet Name": "MAA TARA STORE-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -6192,12 +7659,57 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317D-P44235",
+    "HUL Outlet Name": "SUDHRITI SANGRAHALAY STORES-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P44250",
+    "HUL Outlet Name": "PAL STORES-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P44271",
+    "HUL Outlet Name": "GOKUL BHANDER-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2+NUTS",
+    "ECO": 5057,
+    "Shikhar": 1083
+  },
+  {
+    "HUL Code": "HUL-20B317D-P44307",
+    "HUL Outlet Name": "SHAW STORES-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 952,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317D-P44335",
     "HUL Outlet Name": "Shaw Tea And Snacks-D",
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Joly Mahato",
     "DETS Beat": "K-HATIBAGAN-2+NUTS",
     "ECO": 758,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317D-P44349",
+    "HUL Outlet Name": "PAPPU PAN SHOP-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 959,
     "Shikhar": 0
   },
   {
@@ -6291,6 +7803,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217086D-2251",
+    "HUL Outlet Name": "CHG M/S GRIHA BHANDAR-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 613,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217086D-2406",
     "HUL Outlet Name": "MPJ M/S JAY SANTOSHI MATA STORES-D-D-D-D",
     "Shikhar Outlet": "YES",
@@ -6298,6 +7819,15 @@
     "DETS Beat": "K-GOURIBARI+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2435",
+    "HUL Outlet Name": "CHA M/S ASRAF ALI-D-D-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 6436,
+    "Shikhar": 6206
   },
   {
     "HUL Code": "HUL-217086D-2585",
@@ -6327,6 +7857,42 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217086D-2756",
+    "HUL Outlet Name": "CHS M/S SAMANTO BHANDER-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2758",
+    "HUL Outlet Name": "CBG GIRANI SHAW-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2759",
+    "HUL Outlet Name": "CHA M/S ASHIM DEY-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2760",
+    "HUL Outlet Name": "CHK M/S KRISHNA STORES-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217086D-2772",
     "HUL Outlet Name": "DDK M/S KESHABLAL SHAW-D-D-D-D",
     "Shikhar Outlet": "YES",
@@ -6342,6 +7908,42 @@
     "DETS ME Name": "SAMAR ADHIKARI",
     "DETS Beat": "K-GOURIBARI+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2818",
+    "HUL Outlet Name": "DDM M/S MAA PADMA BHANDER-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2822",
+    "HUL Outlet Name": "DDR M/S RAJENDRA STORES-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 2864,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-2823",
+    "HUL Outlet Name": "DDR M/S RADHA RANI STORES-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 6681,
+    "Shikhar": 6283
+  },
+  {
+    "HUL Code": "HUL-217086D-2824",
+    "HUL Outlet Name": "DDT M/S THE JOY GURU BHANDER-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 1021,
     "Shikhar": 0
   },
   {
@@ -6399,6 +8001,24 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217086D-2947",
+    "HUL Outlet Name": "DDM M/S MARTI BHANDER-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 406,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217086D-37",
+    "HUL Outlet Name": "BSN M/S NEW LIMTON  TEA HOUSE-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-BIDHANSARANI-2+NUTS",
+    "ECO": 453,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217086D-394",
     "HUL Outlet Name": "SPS M/S SRI SHYAM STORES-D-D-D-D",
     "Shikhar Outlet": "YES",
@@ -6444,6 +8064,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-P1069",
+    "HUL Outlet Name": "T P Dutta-D-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-P1104",
     "HUL Outlet Name": "BIJOY BHANDER-D-D-D-D-D",
     "Shikhar Outlet": "NO",
@@ -6451,6 +8080,15 @@
     "DETS Beat": "K-AMHAR ST+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-P1205",
+    "HUL Outlet Name": "D M Chowdhuri-D-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 843,
+    "Shikhar": 843
   },
   {
     "HUL Code": "HUL-217085D-P1339",
@@ -6489,11 +8127,29 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-P866",
+    "HUL Outlet Name": "GHOSH VARITEY STORES-D-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-P880",
     "HUL Outlet Name": "Chandi Mata Bhander-D-D-D-D-D",
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-MANICKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-P977",
+    "HUL Outlet Name": "RAMJI SHAW.-D-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -6522,6 +8178,24 @@
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-AMHAR ST+NUTS",
     "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-P997",
+    "HUL Outlet Name": "NITANANDA BHANDER-D-D-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 585,
+    "Shikhar": 585
+  },
+  {
+    "HUL Code": "HUL-217085D-P998",
+    "HUL Outlet Name": "GANDHESWARI BHANDER-D-D-D-D-D",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 491,
     "Shikhar": 0
   },
   {
@@ -6586,6 +8260,15 @@
     "DETS Beat": "K-COLLEGE STREET+NUTS",
     "ECO": 0,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115F-7207",
+    "HUL Outlet Name": "SANTOSHIMA STORES-F-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 1701,
+    "Shikhar": 1284
   },
   {
     "HUL Code": "HUL-217115D-P21889",
@@ -6696,12 +8379,30 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317P44512",
+    "HUL Outlet Name": "JOY BAM JOY TARA BHANDAR",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2",
+    "ECO": 1183,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317P44520",
     "HUL Outlet Name": "Ashoke  Kumar Shaw",
     "Shikhar Outlet": "NO",
     "DETS ME Name": "Joly Mahato",
     "DETS Beat": "K-HATIBAGAN-1+NUTS",
     "ECO": 526,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44522",
+    "HUL Outlet Name": "RAUNAK STORES",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-JESSORE RD-2",
+    "ECO": 551,
     "Shikhar": 0
   },
   {
@@ -6723,6 +8424,15 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-20B317P44533",
+    "HUL Outlet Name": "Shyam Bhandar",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-MANIKTALA-2+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-20B317P44540",
     "HUL Outlet Name": "Hope Stores",
     "Shikhar Outlet": "NO",
@@ -6730,6 +8440,33 @@
     "DETS Beat": "K-SK DEV ROAD 4+NUTS",
     "ECO": 755,
     "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44544",
+    "HUL Outlet Name": "MANJU TEA STALL",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-DAKSHINDARI-2",
+    "ECO": 1294,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-20B317P44545",
+    "HUL Outlet Name": "HAYAT POINT",
+    "Shikhar Outlet": "NO",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 1638,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217115D-P18545",
+    "HUL Outlet Name": "SUJOY SAT - KS-D-D-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-KESHAB SEN ST-2",
+    "ECO": 8095,
+    "Shikhar": 7261
   },
   {
     "HUL Code": "HUL-217575P222",
@@ -6782,6 +8519,24 @@
     "Shikhar Outlet": "YES",
     "DETS ME Name": "Pritam Das",
     "DETS Beat": "K-BAGUIHATI KHAL PAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P47745",
+    "HUL Outlet Name": "New Graphics World-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-219176D-P26656",
+    "HUL Outlet Name": "M.L.AGRAWAL-D",
+    "Shikhar Outlet": "YES",
+    "DETS ME Name": "Utpal  Chakraborty",
+    "DETS Beat": "D-CHALKBAZAR+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
