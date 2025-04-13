@@ -19,8 +19,8 @@ function populateTable(data) {
     data.forEach((item, index) => {
         const row = document.createElement("tr");
 
-        // Add row number
-        row.appendChild(createCell(index + 1));
+        // Add row number Reverse order
+        row.appendChild(createCell(data.length - index));
 
         // Add table data
         ["HUL Code", "HUL Outlet Name", "ME Name", "BEAT", "BasePack Code", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
