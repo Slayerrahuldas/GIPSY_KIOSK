@@ -23,7 +23,7 @@ function populateTable(data) {
         row.appendChild(createCell(data.length - index));
 
         // Add table data
-        ["HUL Outlet Name", "ME Name", "BEAT", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
+        ["HUL Code", "HUL Outlet Name", "ME Name", "Beat", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"].forEach(key => {
             row.appendChild(createCell(item[key]));
         });
 
@@ -42,7 +42,7 @@ function applyFilters() {
     let filteredData = jsonData.filter(row => {
         return (
             (getFilterValue("filter-me-name") === "" || row["ME Name"] === getFilterValue("filter-me-name")) &&
-            (getFilterValue("filter-beat") === "" || row["BEAT"] === getFilterValue("filter-beat")) &&
+            (getFilterValue("filter-beat") === "" || row["Beat"] === getFilterValue("filter-beat")) &&
             (getFilterValue("filter-basepack-desc") === "" || row["BasePack Desc"] === getFilterValue("filter-basepack-desc")) &&
             (document.getElementById("search-bar").value === "" || 
                 row["HUL Code"].toLowerCase().includes(document.getElementById("search-bar").value.toLowerCase()) ||
@@ -64,7 +64,7 @@ function getFilterValue(id) {
 }
 
 function updateDropdowns(filteredData) {
-    const headers = ["ME Name", "BEAT", "BasePack Desc"];
+    const headers = ["ME Name", "Beat", "BasePack Desc"];
     headers.forEach(header => populateDropdown(`filter-${header.toLowerCase().replace(/ /g, '-')}`, getUniqueValues(filteredData, header), header));
 }
 
