@@ -31,8 +31,7 @@ function populateTable(data) {
         // Add data cells
         const columns = [
             "HUL Code", "HUL Outlet Name", "Shikhar Outlet",
-            "DETS ME Name", "DETS Beat", "FNB ME Name", 
-            "FNB Beat", "NUTS ME Name", "NUTS Beat", "ECO", "Shikhar"
+            "ME Name", "Beat", "ECO", "Shikhar"
         ];
         
         columns.forEach((key) => {
@@ -49,22 +48,14 @@ function populateTable(data) {
 function applyFilters() {
     let filteredData = jsonData.filter((row) => {
         const filterValues = {
-            "DETS ME Name": document.getElementById("filter-dets-me-name").value,
-            "DETS Beat": document.getElementById("filter-dets-beat").value,
-            "FNB ME Name": document.getElementById("filter-fnb-me-name").value,
-            "FNB Beat": document.getElementById("filter-fnb-beat").value,
-            "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
-            "NUTS Beat": document.getElementById("filter-nuts-beat").value
+            "ME Name": document.getElementById("filter-me-name").value,
+            "Beat": document.getElementById("filter-beat").value,
         };
         const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
         return (
-            (filterValues["DETS ME Name"] === "" || row["DETS ME Name"] === filterValues["DETS ME Name"]) &&
-            (filterValues["DETS Beat"] === "" || row["DETS Beat"] === filterValues["DETS Beat"]) &&
-            (filterValues["FNB ME Name"] === "" || row["FNB ME Name"] === filterValues["FNB ME Name"]) &&
-            (filterValues["FNB Beat"] === "" || row["FNB Beat"] === filterValues["FNB Beat"]) &&
-            (filterValues["NUTS ME Name"] === "" || row["NUTS ME Name"] === filterValues["NUTS ME Name"]) &&
-            (filterValues["NUTS Beat"] === "" || row["NUTS Beat"] === filterValues["NUTS Beat"]) &&
+            (filterValues["ME Name"] === "" || row["ME Name"] === filterValues["ME Name"]) &&
+            (filterValues["Beat"] === "" || row["Beat"] === filterValues["Beat"]) &&
             (searchQuery === "" ||
                 row["HUL Code"].toLowerCase().includes(searchQuery) ||
                 row["HUL Outlet Name"].toLowerCase().includes(searchQuery)) &&
@@ -80,21 +71,13 @@ function applyFilters() {
 // Function to update dropdown options dynamically
 function updateDropdowns(filteredData) {
     const dropdowns = {
-        "filter-dets-me-name": { header: "DETS ME Name", values: new Set() },
-        "filter-dets-beat": { header: "DETS Beat", values: new Set() },
-        "filter-fnb-me-name": { header: "FNB ME Name", values: new Set() },
-        "filter-fnb-beat": { header: "FNB Beat", values: new Set() },
-        "filter-nuts-me-name": { header: "NUTS ME Name", values: new Set() },
-        "filter-nuts-beat": { header: "NUTS Beat", values: new Set() }
+        "filter-me-name": { header: "ME Name", values: new Set() },
+        "filter-beat": { header: "Beat", values: new Set() }
     };
 
     filteredData.forEach((row) => {
-        if (row["DETS ME Name"]) dropdowns["filter-dets-me-name"].values.add(row["DETS ME Name"]);
-        if (row["DETS Beat"]) dropdowns["filter-dets-beat"].values.add(row["DETS Beat"]);
-        if (row["FNB ME Name"]) dropdowns["filter-fnb-me-name"].values.add(row["FNB ME Name"]);
-        if (row["FNB Beat"]) dropdowns["filter-fnb-beat"].values.add(row["FNB Beat"]);
-        if (row["NUTS ME Name"]) dropdowns["filter-nuts-me-name"].values.add(row["NUTS ME Name"]);
-        if (row["NUTS Beat"]) dropdowns["filter-nuts-beat"].values.add(row["NUTS Beat"]);
+        if (row["ME Name"]) dropdowns["filter-me-name"].values.add(row["ME Name"]);
+        if (row["Beat"]) dropdowns["filter-beat"].values.add(row["Beat"]);
     });
 
     Object.keys(dropdowns).forEach((id) => {
