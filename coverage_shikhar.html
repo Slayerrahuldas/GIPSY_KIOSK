@@ -8,63 +8,56 @@
     <link rel="stylesheet" href="css/pages.css">
 </head>
 <body>
-    <!-- Header section -->
-	<header>
+    <header>
         <h1><b>Coverage & Shikhar Dashboard</b></h1>
     </header>
-	
-	    <!-- Navigation Bar -->
-		<nav class="navbar">
-            <ul>
-                <li><a href="index.html"><img src="images/home.png" alt="Home" width="20"></a></li>
-	            <li><a href="coverage_shikhar.html">Coverage & Shikhar</a></li>
-                <li><a href="sales.html">Sales</a></li>
-                <li><a href="launch.html">Launch</a></li>
-            </ul>
-        </nav>
-		
+    
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html"><img src="images/home.png" alt="Home" width="20"></a></li>
+            <li><a href="coverage_shikhar.html">Coverage & Shikhar</a></li>
+            <li><a href="sales.html">Sales</a></li>
+            <li><a href="launch.html">Launch</a></li>
+        </ul>
+    </nav>
+    
     <div class="container">
-        <!-- Search Bar -->
         <div class="search-bar-container">
-            <input type="text" id="search-bar" placeholder="Search by HUL Code or Outlet Name">
+            <input type="text" id="search-bar" placeholder="Search by HUL Code or HUL Outlet Name">
         </div>
 
-        <!-- Filters for columns using dropdowns -->
         <div class="filters-container">
-            <select id="filter-deets-me-name">
+            <select id="filter-dets-me-name">
                 <option value="">DETS ME Name</option>
             </select>
-            <select id="filter-deets-beat">
+            <select id="filter-dets-beat">
                 <option value="">DETS Beat</option>
+            </select>
         </div>
 
-        <!-- Buttons for filtering -->
         <div class="buttons-container">
             <button id="filter-button-1">ECO < 1000</button>
             <button id="filter-button-2">Shikhar < 500</button>
             <button id="reset-button">Reset Filters</button>
         </div>
 
-        <!-- Table -->
         <table id="data-table">
             <thead>
                 <tr>
+                    <th>#</th>
                     <th>HUL Code</th>
                     <th>HUL Outlet Name</th>
-                    <th>Shikhar Onboarding</th>
+                    <th>Shikhar Outlet</th>
                     <th>KIOSK ME Name</th>
                     <th>KIOSK Beat</th>
                     <th>ECO</th>
                     <th>Shikhar</th>
                 </tr>
             </thead>
-            <tbody id="table-body">
-                <!-- Data will be populated here dynamically -->
-            </tbody>
+            <tbody id="table-body"></tbody>
         </table>
     </div>
 
-    <!-- Link to the script -->
     <script src="script/coverage_shikhar.js"></script>
 </body>
 </html>
