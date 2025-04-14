@@ -310,7 +310,7 @@
     "HUL Outlet Name": "KUNDU & SONS - KL-D-D-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 3705.09,
     "Shikhar": 1442.79
   },
@@ -823,7 +823,7 @@
     "HUL Outlet Name": "ARUN TARA STORES-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1217.46,
     "Shikhar": 0
   },
@@ -1084,7 +1084,7 @@
     "HUL Outlet Name": "MAA DURGA BHANDAR-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 422.71,
     "Shikhar": 0
   },
@@ -1156,7 +1156,7 @@
     "HUL Outlet Name": "JAI RAM STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 2463.92,
     "Shikhar": 556.57
   },
@@ -1174,7 +1174,7 @@
     "HUL Outlet Name": "ASHOK KUMAR BIJOY KUMAR-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 857.18,
     "Shikhar": 0
   },
@@ -1363,7 +1363,7 @@
     "HUL Outlet Name": "P.KUNDU-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1265.87,
     "Shikhar": 0
   },
@@ -1588,7 +1588,7 @@
     "HUL Outlet Name": "RAHUL STORES-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 10827.66,
     "Shikhar": 0
   },
@@ -1597,7 +1597,7 @@
     "HUL Outlet Name": "PANDAV STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1469.72,
     "Shikhar": 0
   },
@@ -1606,7 +1606,7 @@
     "HUL Outlet Name": "ARPITA-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1478.85,
     "Shikhar": 0
   },
@@ -1615,7 +1615,7 @@
     "HUL Outlet Name": "SANJOY STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1026.62,
     "Shikhar": 0
   },
@@ -1813,7 +1813,7 @@
     "HUL Outlet Name": "Saha Variety Stores-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 2727.87,
     "Shikhar": 0
   },
@@ -1822,7 +1822,7 @@
     "HUL Outlet Name": "RADHA RANI STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1349.89,
     "Shikhar": 0
   },
@@ -2281,7 +2281,7 @@
     "HUL Outlet Name": "Karmakar Store-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 609.75,
     "Shikhar": 0
   },
@@ -2299,7 +2299,7 @@
     "HUL Outlet Name": "Sunny-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-SHYAM PUKUR",
+    "Beat": "K-SHYAM PUKUR+NUTS",
     "ECO": 422.63,
     "Shikhar": 0
   },
@@ -2569,7 +2569,7 @@
     "HUL Outlet Name": "MALATI PAN SHOP-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 860.04,
     "Shikhar": 860.04
   },
@@ -2605,7 +2605,7 @@
     "HUL Outlet Name": "Sampa St.-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1852.84,
     "Shikhar": 0
   },
@@ -2668,7 +2668,7 @@
     "HUL Outlet Name": "NIRMAL STORES-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1046.96,
     "Shikhar": 1046.96
   },
@@ -2695,7 +2695,7 @@
     "HUL Outlet Name": "S. MANDOL-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1042.99,
     "Shikhar": 0
   },
@@ -2740,7 +2740,7 @@
     "HUL Outlet Name": "BAPPA STORES-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1544.28,
     "Shikhar": 1105.89
   },
@@ -2785,7 +2785,7 @@
     "HUL Outlet Name": "Dipak St.-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 643.71,
     "Shikhar": 0
   },
@@ -2794,7 +2794,7 @@
     "HUL Outlet Name": "GOUTAM DAS-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1076.38,
     "Shikhar": 0
   },
@@ -2803,7 +2803,7 @@
     "HUL Outlet Name": "S.P.Nandi-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 755.83,
     "Shikhar": 545.3
   },
@@ -2911,7 +2911,7 @@
     "HUL Outlet Name": "Makali Stores-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 2357.18,
     "Shikhar": 0
   },
@@ -3442,7 +3442,7 @@
     "HUL Outlet Name": "Roy Vareity-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -3712,7 +3712,7 @@
     "HUL Outlet Name": "Anita Das-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 530.25,
     "Shikhar": 0
   },
@@ -3820,7 +3820,7 @@
     "HUL Outlet Name": "Asrbad-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1276.66,
     "Shikhar": 0
   },
@@ -4018,7 +4018,7 @@
     "HUL Outlet Name": "Suvho Enter Prise-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1143.78,
     "Shikhar": 0
   },
@@ -4027,7 +4027,7 @@
     "HUL Outlet Name": "M Show-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1480.2,
     "Shikhar": 0
   },
@@ -4045,7 +4045,7 @@
     "HUL Outlet Name": "Rakib Stores-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 2271.97,
     "Shikhar": 0
   },
@@ -4072,7 +4072,7 @@
     "HUL Outlet Name": "Joy Ma Tara St.-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1045.21,
     "Shikhar": 0
   },
@@ -4234,7 +4234,7 @@
     "HUL Outlet Name": "Joy Gajonath Bhander-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -4333,7 +4333,7 @@
     "HUL Outlet Name": "Balaje-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1177.08,
     "Shikhar": 0
   },
@@ -4360,7 +4360,7 @@
     "HUL Outlet Name": "Das St.1-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 2804.84,
     "Shikhar": 2804.84
   },
@@ -4612,7 +4612,7 @@
     "HUL Outlet Name": "SARA VARIETY-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 519,
     "Shikhar": 519
   },
@@ -4828,7 +4828,7 @@
     "HUL Outlet Name": "JAGBANDHU STORES-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1366.42,
     "Shikhar": 542.35
   },
@@ -4864,7 +4864,7 @@
     "HUL Outlet Name": "BHAGYA LAKSHMI BHANDAR-D-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 378.89,
     "Shikhar": 0
   },
@@ -4873,7 +4873,7 @@
     "HUL Outlet Name": "G.S. STORES-D-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 210.53,
     "Shikhar": 0
   },
@@ -4981,7 +4981,7 @@
     "HUL Outlet Name": "SANTOSH STORES - MP-D-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 2133.22,
     "Shikhar": 2133.22
   },
@@ -5107,7 +5107,7 @@
     "HUL Outlet Name": "BABLU MALAKAR - MP-D-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -5152,7 +5152,7 @@
     "HUL Outlet Name": "MUKHERJEE VTY. STORES - MP-D-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1478.44,
     "Shikhar": 0
   },
@@ -5251,7 +5251,7 @@
     "HUL Outlet Name": "BIPIN STORES - MP-D-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1764.1,
     "Shikhar": 1764.1
   },
@@ -5323,7 +5323,7 @@
     "HUL Outlet Name": "B.N. STATIONERY - KL-D-D-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 1922.66,
     "Shikhar": 0
   },
@@ -5494,7 +5494,7 @@
     "HUL Outlet Name": "MAA KALI BHANDAR-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1093.36,
     "Shikhar": 0
   },
@@ -5503,7 +5503,7 @@
     "HUL Outlet Name": "MAA MANASA BHANDAR-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 2314.8,
     "Shikhar": 2314.8
   },
@@ -5512,7 +5512,7 @@
     "HUL Outlet Name": "MAA MANASA STORES-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 2441.42,
     "Shikhar": 0
   },
@@ -5584,7 +5584,7 @@
     "HUL Outlet Name": "RAJA RAM GUPTA-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 3212.38,
     "Shikhar": 0
   },
@@ -5683,7 +5683,7 @@
     "HUL Outlet Name": "SREE RAM BHANDER-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 23538.65,
     "Shikhar": 23538.65
   },
@@ -5701,7 +5701,7 @@
     "HUL Outlet Name": "RAJESH GHOSH-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1757.42,
     "Shikhar": 0
   },
@@ -5719,7 +5719,7 @@
     "HUL Outlet Name": "LAXMI BROTHERS-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 210.53,
     "Shikhar": 0
   },
@@ -5737,7 +5737,7 @@
     "HUL Outlet Name": "BINOD STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 7683.21,
     "Shikhar": 7683.21
   },
@@ -5782,7 +5782,7 @@
     "HUL Outlet Name": "NANDALAL SHAW-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR-3+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 317.97,
     "Shikhar": 0
   },
@@ -6025,7 +6025,7 @@
     "HUL Outlet Name": "SABITA STORES-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1182.51,
     "Shikhar": 0
   },
@@ -6043,7 +6043,7 @@
     "HUL Outlet Name": "JAMAN STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 3182.93,
     "Shikhar": 3182.93
   },
@@ -6052,7 +6052,7 @@
     "HUL Outlet Name": "LAHA STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1557.7,
     "Shikhar": 0
   },
@@ -6223,7 +6223,7 @@
     "HUL Outlet Name": "DAS STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 6384.74,
     "Shikhar": 4460.67
   },
@@ -6250,7 +6250,7 @@
     "HUL Outlet Name": "JOY TARA STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1963.66,
     "Shikhar": 1963.66
   },
@@ -6268,7 +6268,7 @@
     "HUL Outlet Name": "MD HAIDER-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 890.92,
     "Shikhar": 0
   },
@@ -6367,7 +6367,7 @@
     "HUL Outlet Name": "TINKU SHAW-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1216.92,
     "Shikhar": 0
   },
@@ -6466,7 +6466,7 @@
     "HUL Outlet Name": "BHOLA STORE-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 370.37,
     "Shikhar": 0
   },
@@ -6646,7 +6646,7 @@
     "HUL Outlet Name": "EASHNI-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-SHYAM PUKUR",
+    "Beat": "K-SHYAM PUKUR+NUTS",
     "ECO": 2435.59,
     "Shikhar": 0
   },
@@ -6781,7 +6781,7 @@
     "HUL Outlet Name": "MD. AFTABBUDDIN-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 769.9,
     "Shikhar": 0
   },
@@ -6790,7 +6790,7 @@
     "HUL Outlet Name": "SAHA TRADERS-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 1020.88,
     "Shikhar": 0
   },
@@ -6835,7 +6835,7 @@
     "HUL Outlet Name": "KRISHNA BHANDER-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 1649.88,
     "Shikhar": 638.39
   },
@@ -7105,7 +7105,7 @@
     "HUL Outlet Name": "USHA STORES-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1074.13,
     "Shikhar": 0
   },
@@ -7123,7 +7123,7 @@
     "HUL Outlet Name": "SUSHILA BHANDER-D",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-COLLAGE ST-2",
+    "Beat": "K-COLLAGE ST-2+NUTS",
     "ECO": 3000.07,
     "Shikhar": 0
   },
@@ -7420,7 +7420,7 @@
     "HUL Outlet Name": "Saroswati St.-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 2619.55,
     "Shikhar": 1680.36
   },
@@ -7429,7 +7429,7 @@
     "HUL Outlet Name": "Joy Jagannath Bhander-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -7591,7 +7591,7 @@
     "HUL Outlet Name": "Kamal Stores-D-D-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 864.64,
     "Shikhar": 0
   },
@@ -7618,7 +7618,7 @@
     "HUL Outlet Name": "Joy Ram Telecom-D",
     "Shikhar Outlet": "YES",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 4987.12,
     "Shikhar": 2002.46
   },
@@ -7726,7 +7726,7 @@
     "HUL Outlet Name": "RAJ STORES-D-D-D-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 2985.17,
     "Shikhar": 0
   },
@@ -7753,7 +7753,7 @@
     "HUL Outlet Name": "Samir-D-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-2+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 1126.95,
     "Shikhar": 0
   },
@@ -7780,7 +7780,7 @@
     "HUL Outlet Name": "DEBASISH VTY. STORES-D-D",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-BAGMARI-3+NUTS",
+    "Beat": "K-BAGMARI-2+3+NUTS",
     "ECO": 875.9,
     "Shikhar": 0
   },
@@ -8410,7 +8410,7 @@
     "HUL Outlet Name": "BASANTI STORES",
     "Shikhar Outlet": "NO",
     "ME Name": "Pritam Das",
-    "Beat": "K-SHYAM PUKUR",
+    "Beat": "K-SHYAM PUKUR+NUTS",
     "ECO": 0,
     "Shikhar": 0
   },
@@ -8419,7 +8419,7 @@
     "HUL Outlet Name": "BABAN BUBUN ST.",
     "Shikhar Outlet": "NO",
     "ME Name": "SAMAR ADHIKARI",
-    "Beat": "K-MURARIPUKUR 4+NUTS",
+    "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "ECO": 2004.9,
     "Shikhar": 0
   },
@@ -8482,7 +8482,7 @@
     "HUL Outlet Name": "AYUSH STORES-D",
     "Shikhar Outlet": "YES",
     "ME Name": "Indrajit Sarkar",
-    "Beat": "K-LALGHAR",
+    "Beat": "K-LALGHAR+NUTS",
     "ECO": 6775.1,
     "Shikhar": 4045.29
   },
