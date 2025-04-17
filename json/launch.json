@@ -76,7 +76,7 @@
     "Beat": "K-DAKHINDHARI-2+NUTS",
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -366,7 +366,7 @@
     "Beat": "D-CHALKBAZAR+NUTS",
     "BasePack Desc": "PEARS PURE & GENTLE 75 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
+    "Achv Qty": 10,
     "Status": "Pending"
   },
   {
@@ -536,7 +536,7 @@
     "Beat": "D-JESSORE RD-2",
     "BasePack Desc": "DOVE CREAM BAR 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -1406,7 +1406,7 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 3,
     "Status": "Pending"
   },
   {
@@ -1596,7 +1596,7 @@
     "Beat": "K-LALGHAR+NUTS",
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 3,
+    "Achv Qty": 9,
     "Status": "Completed"
   },
   {
@@ -2016,7 +2016,7 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 3,
     "Status": "Pending"
   },
   {
@@ -2416,7 +2416,7 @@
     "Beat": "K-DAKHINDHARI-2+NUTS",
     "BasePack Desc": "LUX  VELVET GLOW - SINGLE(75G)",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 3,
     "Status": "Pending"
   },
   {
