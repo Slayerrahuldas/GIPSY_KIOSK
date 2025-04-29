@@ -46,8 +46,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-20B317D-P44008",
@@ -106,8 +106,8 @@
     "Beat": "K-MANICKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2251",
@@ -125,9 +125,9 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Target (VMQ)": 4,
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2822",
@@ -135,7 +135,7 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -166,8 +166,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217093D-P1555",
@@ -215,7 +215,7 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 4,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -225,7 +225,7 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 4,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -335,7 +335,7 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -345,16 +345,6 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
-  },
-  {
-    "HUL Code": "HUL-217115D-P19696",
-    "HUL Outlet Name": "Sonu Stores-D-D-D",
-    "ME Name": "Pritam Das",
-    "Beat": "K-MANICKTALA-2+NUTS",
-    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
@@ -364,8 +354,18 @@
     "HUL Outlet Name": "Sonu Stores-D-D-D",
     "ME Name": "Pritam Das",
     "Beat": "K-MANICKTALA-2+NUTS",
-    "BasePack Desc": "LB TOTAL 10 75G",
+    "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 2,
+    "Achv Qty": 2,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217115D-P19696",
+    "HUL Outlet Name": "Sonu Stores-D-D-D",
+    "ME Name": "Pritam Das",
+    "Beat": "K-MANICKTALA-2+NUTS",
+    "BasePack Desc": "LB TOTAL 10 75G",
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -426,8 +426,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P23714",
@@ -436,8 +436,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P23719",
@@ -446,8 +446,8 @@
     "Beat": "K-BAGMARI-2+3+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P23749",
@@ -456,8 +456,8 @@
     "Beat": "K-BAGMARI-2+3+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P24015",
@@ -506,8 +506,8 @@
     "Beat": "K-BAGMARI-2+3+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P8453",
@@ -536,8 +536,8 @@
     "Beat": "K-KALINDI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25161",
@@ -556,8 +556,8 @@
     "Beat": "K-KALINDI+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25251",
@@ -566,8 +566,8 @@
     "Beat": "K-KALINDI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P25452",
@@ -666,8 +666,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P27156",
@@ -676,8 +676,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P27371",
@@ -726,8 +726,8 @@
     "Beat": "K-BAGMARI-2+3+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P28522",
@@ -846,8 +846,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P31066",
@@ -856,8 +856,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P31416",
@@ -896,8 +896,8 @@
     "Beat": "D-MANIKTALA-2+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P33217",
@@ -945,7 +945,7 @@
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -955,7 +955,7 @@
     "ME Name": "Pritam Das",
     "Beat": "K-AMHAR ST+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -985,7 +985,7 @@
     "ME Name": "Ranajit Das",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -995,7 +995,7 @@
     "ME Name": "Ranajit Das",
     "Beat": "K-HATIBAGAN-1+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1015,7 +1015,7 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-MANIKTALA-2+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1025,7 +1025,7 @@
     "ME Name": "Utpal  Chakraborty",
     "Beat": "D-MANIKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1036,8 +1036,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35547",
@@ -1086,8 +1086,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P37182",
@@ -1125,7 +1125,7 @@
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1135,7 +1135,7 @@
     "ME Name": "SAMAR ADHIKARI",
     "Beat": "K-GOLA GHATA+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1335,7 +1335,7 @@
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-AMARPALLY+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
-    "Target (VMQ)": 1,
+    "Target (VMQ)": 2,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1345,7 +1345,7 @@
     "ME Name": "Indrajit Sarkar",
     "Beat": "D-AMARPALLY+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
-    "Target (VMQ)": 2,
+    "Target (VMQ)": 1,
     "Achv Qty": 0,
     "Status": "Pending"
   },
@@ -1406,8 +1406,8 @@
     "Beat": "K-SHYAM PUKUR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45122",
@@ -1416,8 +1416,8 @@
     "Beat": "K-MANICKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P45258",
@@ -1446,8 +1446,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46094",
@@ -1456,8 +1456,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46124",
@@ -1496,8 +1496,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46210",
@@ -1556,8 +1556,8 @@
     "Beat": "K-SHYAM PUKUR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46900",
