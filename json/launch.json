@@ -146,8 +146,8 @@
     "Beat": "K-GOLA GHATA+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217086D-2904",
@@ -426,8 +426,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-217115D-P23714",
@@ -486,8 +486,8 @@
     "Beat": "K-BAGMARI-2+3+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P24900",
@@ -626,8 +626,8 @@
     "Beat": "D-KESHAB SEN ST-2",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 6,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P26332",
@@ -746,8 +746,8 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P28977",
@@ -776,8 +776,8 @@
     "Beat": "K-GOLA GHATA+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P29832",
@@ -816,8 +816,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P30676",
@@ -826,8 +826,8 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P30731",
@@ -876,8 +876,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P32519",
@@ -976,8 +976,8 @@
     "Beat": "K-LALGHAR",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P34853",
@@ -1076,8 +1076,8 @@
     "Beat": "K-GOLA GHATA+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P36692",
@@ -1126,8 +1126,8 @@
     "Beat": "K-GOLA GHATA+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P37537",
@@ -1196,8 +1196,8 @@
     "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P38862",
@@ -1226,8 +1226,8 @@
     "Beat": "K-MURARIPUKUR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P40391",
@@ -1246,8 +1246,8 @@
     "Beat": "K-CHALK BAZAR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 4,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P41299",
@@ -1316,8 +1316,8 @@
     "Beat": "D-DAKSHINDARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P44332",
@@ -1486,8 +1486,8 @@
     "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P46190",
