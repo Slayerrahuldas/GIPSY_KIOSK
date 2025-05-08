@@ -186,8 +186,8 @@
     "Beat": "K-DAKSHINDHARI RAIL GATE+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-7268",
@@ -246,8 +246,8 @@
     "Beat": "D-MANIKTALA-2+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P11585",
@@ -416,7 +416,7 @@
     "Beat": "K-DAKHINDHARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 3,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -426,8 +426,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217115D-P23714",
@@ -736,8 +736,8 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P28527",
@@ -746,8 +746,8 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P28977",
@@ -936,8 +936,8 @@
     "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34168",
@@ -966,8 +966,8 @@
     "Beat": "K-GOURIBARI+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P34843",
@@ -1016,8 +1016,8 @@
     "Beat": "D-MANIKTALA-2+NUTS",
     "BasePack Desc": "WHEEL BLUE POWDER 01 2000GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35442",
@@ -1026,8 +1026,8 @@
     "Beat": "D-MANIKTALA-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35452",
@@ -1046,8 +1046,8 @@
     "Beat": "K-COLLAGE ST-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P35562",
@@ -1406,8 +1406,8 @@
     "Beat": "K-SHYAM PUKUR+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 2,
-    "Status": "Completed"
+    "Achv Qty": 0,
+    "Status": "Pending"
   },
   {
     "HUL Code": "HUL-219176D-P45122",
@@ -1476,8 +1476,8 @@
     "Beat": "K-DAKHINDHARI-2+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 4,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 12,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46185",
@@ -1486,8 +1486,8 @@
     "Beat": "K-MURARIPUKUR-3+4+NUTS",
     "BasePack Desc": "LB TOTAL 10 75G",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-219176D-P46190",
