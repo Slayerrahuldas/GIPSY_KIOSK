@@ -45,38 +45,29 @@ function applyFilters() {
   const searchValue = document.getElementById("search-bar").value.toLowerCase();
 
   const filters = {
-    "DETS ME Name": getSelectedValues("filter-dets-me-name"),
-    "DETS Beat": getSelectedValues("filter-dets-beat"),
-    "FNB ME Name": getSelectedValues("filter-fnb-me-name"),
-    "FNB Beat": getSelectedValues("filter-fnb-beat"),
-    "NUTS ME Name": getSelectedValues("filter-nuts-me-name"),
-    "NUTS Beat": getSelectedValues("filter-nuts-beat"),
-    "PP ME NAME": getSelectedValues("filter-pp-me-name"),
-    "PP BEAT": getSelectedValues("filter-pp-beat"),
-    "U2NC  ME NAME": getSelectedValues("filter-u2nc-me-name"),
-    "U2NC BEAT": getSelectedValues("filter-u2nc-beat")
+    "DETS ME Name": document.getElementById("filter-dets-me-name").value,
+    "DETS Beat": document.getElementById("filter-dets-beat").value,
+    "FNB ME Name": document.getElementById("filter-fnb-me-name").value,
+    "FNB Beat": document.getElementById("filter-fnb-beat").value,
+    "NUTS ME Name": document.getElementById("filter-nuts-me-name").value,
+    "NUTS Beat": document.getElementById("filter-nuts-beat").value,
+    "PP ME NAME": document.getElementById("filter-pp-me-name").value,
+    "PP BEAT": document.getElementById("filter-pp-beat").value,
+    "U2NC  ME NAME": document.getElementById("filter-u2nc-me-name").value,
+    "U2NC BEAT": document.getElementById("filter-u2nc-beat").value
   };
 
   const filtered = jsonData.filter(row => {
-    const matchesFilters = Object.entries(filters).every(([key, selectedValues]) => {
-      return selectedValues.length === 0 || selectedValues.includes(row[key]);
-    });
-
-    const matchesSearch =
-      searchValue === "" ||
-      row["HUL Code"]?.toLowerCase().includes(searchValue) ||
-      row["HUL Outlet Name"]?.toLowerCase().includes(searchValue);
-
-    return matchesFilters && matchesSearch;
+    return (
+      Object.entries(filters).every(([key, value]) => value === "" || row[key] === value) &&
+      (searchValue === "" ||
+        row["HUL Code"]?.toLowerCase().includes(searchValue) ||
+        row["HUL Outlet Name"]?.toLowerCase().includes(searchValue))
+    );
   });
 
   populateTable(filtered);
   updateDropdowns(filtered);
-}
-
-function getSelectedValues(selectId) {
-  const select = document.getElementById(selectId);
-  return Array.from(select.selectedOptions).map(opt => opt.value);
 }
 
 function updateDropdowns(data) {
@@ -105,22 +96,19 @@ function updateDropdowns(data) {
 
 function populateSelect(id, optionsSet, label) {
   const select = document.getElementById(id);
-  const prevValues = Array.from(select.selectedOptions).map(opt => opt.value);
-  select.innerHTML = `<option disabled>${label}</option>`;
-
+  const prevValue = select.value;
+  select.innerHTML = `<option value="">${label}</option>`;
   Array.from(optionsSet)
     .sort()
     .forEach(option => {
-      const selected = prevValues.includes(option) ? "selected" : "";
+      const selected = option === prevValue ? "selected" : "";
       select.innerHTML += `<option value="${option}" ${selected}>${option}</option>`;
     });
 }
 
 function resetFilters() {
   document.getElementById("search-bar").value = "";
-  document.querySelectorAll("select").forEach(select => {
-    Array.from(select.options).forEach(opt => (opt.selected = false));
-  });
+  document.querySelectorAll("select").forEach(select => (select.value = ""));
   applyFilters();
 }
 
